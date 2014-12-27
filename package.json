@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "GPL-3.0+"
+  "license": "GPL-3.0+",
+  "dependencies": {
+    "gprs-sim900": "^0.1.4",
+    "tessel-matrix-keypad": "0.0.1"
+  }
 }
